@@ -19,6 +19,9 @@ body{
 }
 
 .container-fluid{
+    background-image: url("../images/cookie.png");
+    background-repeat: repeat;
+    background-size: 7.14vw;
     flex: 1;
 }
 
@@ -31,8 +34,8 @@ body{
     width: auto;
     word-wrap: break-word;
     text-align: left;
-    background-color: #68604d;
-    border: solid #9F9A8F;
+    background-color: rgba(104, 96, 77, .75);
+    border: solid rgba(159, 154, 143, .50);
 }
 
 .row:after {
