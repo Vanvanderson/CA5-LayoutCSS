@@ -1,6 +1,6 @@
 /* Box def. */
 html{
-    background-color: #4A412A;
+    background-color: #3a3321;
 }
 
 body{
@@ -41,9 +41,9 @@ body{
     display: block;
 }
 
-div {
-    /* border: double cornflowerblue; */
-}
+/* div {
+    border: double cornflowerblue;
+} */
 
 /* End Box def. */
 h3{
@@ -74,7 +74,7 @@ h3{
 
 #footer {
 	text-align:center;
-	height: 100px;
+	height: 7vh;
 	clear:both;
     background-color: #68604d;
     border-top: solid #9F9A8F;
@@ -83,4 +83,20 @@ h3{
 #wrap {
 	width:auto;
 	margin:0 auto;
+}
+
+.linkbox{
+    background-color: #4A412A;
+    height: 6vh;
+    width: 150px;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: .5vh;
+    border: solid 5px #3a3321;
+    border-radius: 5px;
+}
+
+#buttontext{
+    text-align: center;
+    font-size: 2.5vh;
 }
