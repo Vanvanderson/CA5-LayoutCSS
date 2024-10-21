@@ -103,3 +103,7 @@ h3{
     text-align: center;
     font-size: 2.5vh;
 }
+span{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
